@@ -1,0 +1,27 @@
+{
+  "name": "api-noticias",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000P\u0000I\u0000-\u0000N\u0000o\u0000t\u0000i\u0000c\u0000i\u0000a\u0000s\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vidal-Gus/API-Noticias.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vidal-Gus/API-Noticias/issues"
+  },
+  "homepage": "https://github.com/Vidal-Gus/API-Noticias#readme",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
